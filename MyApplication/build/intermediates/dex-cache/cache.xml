@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\MyApplication\app\libs\osmdroid-android-4.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2fcf7bc3cb27daa6e67c8990ea418d19f6b5b296">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\osmdroid-android-4.3-df6902fd76b0f207c5e6042a5526ff41d8d56d09.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\libs\SwingMapViewer-release-0.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3b43d72807ad5b659b564df9b9352c62f8619482">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\SwingMapViewer-release-0.5.2-ee6c86d86c8512c4e54278eb798c8a53869f5bb6.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\libs\mapsforge-map-reader-release-0.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3ce77d8d5c6d355a7920b7f88eb5ecf7b98cf627">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\mapsforge-map-reader-release-0.5.2-fed6407933fa261d05bb9772d45f13d1f74822a6.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\libs\osmbonuspack_v5.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6056a0c43cd37168d2bbcc0bdac23b9b8c5452f2">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\osmbonuspack_v5.1-caf5f5826cb9ff27f89391c705e2a3033005d4e5.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\libs\mapsforge-core-release-0.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="507b55a9517309c222dd54c28d53fc24710dfcf1">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\mapsforge-core-release-0.5.2-b038f67484c7193a11a3af51f91a07466e5f2ce2.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\libs\mapsforge-map-awt-release-0.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="25fdaab243ee7d362ef62c522379965209251d74">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\mapsforge-map-awt-release-0.5.2-4419c5f9362a9005206f330b2c7ad1ea76f5650e.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\2.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="06d629f89d1e0de27c659f94daf6f5e1512348f1">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\classes-ecbfb8f73d27aa38a0830df90f64c86da26f6935.jar" />
+    </item>
+    <item
+        jar="C:\Users\AMOGH A\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-1895f57ab50ddf0e13df1ef5dc27fd41a31cdb34.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\classes-16696e43d7a5801985ea59c9aab2bd56a55fa902.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-5af53185917d4ec107f0400ddc7255471dd63ac5.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\libs\mapsforge-map-android-release-0.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="84cdae592db05cb61f4c9b60609ef72b8237e993">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\mapsforge-map-android-release-0.5.2-04cc8d82a5b6c0df39fdb653a72a5b84bd164fcd.jar" />
+    </item>
+    <item
+        jar="C:\Users\AMOGH A\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\gson-2.2.4-be987ba6292e10dd6907a94c9dd9df8b61e6cb7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\AMOGH A\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\okio-1.6.0-441bc8aa0f8e8d372886247d3c5e0fa9f744009d.jar" />
+    </item>
+    <item
+        jar="C:\Users\AMOGH A\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-1c26d1b02a71b4b2e94bfb73f02c1fc4d55e4aae.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\libs\slf4j-android-1.5.8.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="404eece4bb07ea211f5a879c22458775c612f0df">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\slf4j-android-1.5.8-dde58d8e06c5c1f34ac46801f418a15f832ccd9d.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\libs\svg-android-1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9f7c80e87e9925b691875dc9388869d87515f7d2">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\svg-android-1.1-99841ca9b280c2e4973cd5cc7782767805d9f92a.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\classes-0b21248058315f148055239e79bbb36743f85e41.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\libs\mapsforge-map-writer-release-0.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a8f711593aa0342aaf11997b5fb33c7dc975ec3">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\mapsforge-map-writer-release-0.5.2-3c8afdb1300c894e76226e2687ed3c14be5b5b74.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\classes-12ec99a5f692eac00bf3f3f35634d60f76d23fb2.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\libs\mapsforge-map-release-0.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e171d77848577a77fedb847909b8c85d22d84d9">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\mapsforge-map-release-0.5.2-75e0f72f4ee08ddba7dbfb364119a92f57caf899.jar" />
+    </item>
+    <item
+        jar="C:\Users\AMOGH A\.gradle\caches\modules-2\files-2.1\com.mapzen.android\lost\1.0.1\5f807d0be6ca894f6ae0007e884099793b2c8633\lost-1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f807d0be6ca894f6ae0007e884099793b2c8633">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\lost-1.0.1-ea88023f00d95fcb57386b9702ea0919c352b951.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\libs\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="659861b4acde07a0527211e40d256119face1d15">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\commons-lang3-3.3.2-a761abe7ac396c6db615a7d8734d04f0f4e03562.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="F:\MyApplication\app\build\intermediates\pre-dexed\debug\classes-4bdaa90c1961c3489c57cacbc7340cc5dca37b2e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/brad/development/mapbox-gl-android/android/MapboxGLAndroidSDK/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <array formatted="false" name="attribution_links" translatable="false">
+        <item>https://www.mapbox.com/about/maps/</item>
+        <item>http://www.openstreetmap.org/about/</item>
+        <item>https://www.mapbox.com/map-feedback/#/%1$f/%2$f/%3$d</item>
+    </array>
+    <array name="attribution_names">
+        <item>© Mapbox</item>
+        <item>© OpenStreetMap</item>
+        <item>Improve this map</item>
+    </array>
+    <!-- From: file:/Users/brad/development/mapbox-gl-android/android/MapboxGLAndroidSDK/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <color name="mapbox_blue">#1E8CAB</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="MapView"><attr format="float" name="center_longitude"/><attr format="float" name="center_latitude"/><attr format="float" name="zoom_level"/><attr format="float" name="direction"/><attr format="boolean" name="zoom_enabled"/><attr format="boolean" name="scroll_enabled"/><attr format="boolean" name="rotate_enabled"/><attr format="boolean" name="debug_active"/><attr format="string" name="style_url"/><attr format="string" name="access_token"/><attr format="string" name="style_classes"/><attr format="boolean" name="my_location_enabled"/><attr format="boolean" name="compass_enabled"/><attr name="compass_gravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="fill_horizontal" value="0x07"/><flag name="center" value="0x11"/><flag name="fill" value="0x77"/><flag name="clip_vertical" value="0x80"/><flag name="clip_horizontal" value="0x08"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr><attr format="dimension" name="compass_margin_left"/><attr format="dimension" name="compass_margin_top"/><attr format="dimension" name="compass_margin_right"/><attr format="dimension" name="compass_margin_bottom"/><attr name="logo_gravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="fill_horizontal" value="0x07"/><flag name="center" value="0x11"/><flag name="fill" value="0x77"/><flag name="clip_vertical" value="0x80"/><flag name="clip_horizontal" value="0x08"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr><attr format="dimension" name="logo_margin_left"/><attr format="dimension" name="logo_margin_top"/><attr format="dimension" name="logo_margin_right"/><attr format="dimension" name="logo_margin_bottom"/><attr name="logo_visibility"><enum name="visible" value="0x0"/><enum name="invisible" value="0x4"/><enum name="gone" value="0x8"/></attr><attr name="attribution_gravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="fill_horizontal" value="0x07"/><flag name="center" value="0x11"/><flag name="fill" value="0x77"/><flag name="clip_vertical" value="0x80"/><flag name="clip_horizontal" value="0x08"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr><attr format="dimension" name="attribution_margin_left"/><attr format="dimension" name="attribution_margin_top"/><attr format="dimension" name="attribution_margin_right"/><attr format="dimension" name="attribution_margin_bottom"/><attr name="attribution_visibility"><enum name="visible" value="0x0"/><enum name="invisible" value="0x4"/><enum name="gone" value="0x8"/></attr></declare-styleable>
+    <!-- From: file:/Users/brad/development/mapbox-gl-android/android/MapboxGLAndroidSDK/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="infowindow_margin">8dp</dimen>
+    <dimen name="infowindow_tipview_width">16dp</dimen>
+    <!-- From: file:/Users/brad/development/mapbox-gl-android/android/MapboxGLAndroidSDK/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="attributionsDialogTitle">Mapbox Android SDK</string>
+    <string name="attributionsIconContentDescription">Attribution icon. Click to show attribution dialog.</string>
+    <string name="compassContentDescription">Map compass. Click to reset the map rotation to North.</string>
+    <string name="infoWindowAddress">Address</string>
+    <string name="infoWindowDescription">Description</string>
+    <string name="infoWindowTitle">Title</string>
+    <string name="mapboxIconContentDescription">The Mapbox logo.</string>
+    <string name="style_dark">asset://styles/dark-v8.json</string>
+    <string name="style_emerald">asset://styles/emerald-v8.json</string>
+    <string name="style_light">asset://styles/light-v8.json</string>
+    <string name="style_mapbox_streets">asset://styles/streets-v8.json</string>
+    <string name="style_satellite">asset://styles/satellite-v8.json</string>
+    <string name="style_satellite_streets">asset://styles/satellite-hybrid-v8.json</string>
+    <!-- From: file:/Users/brad/development/mapbox-gl-android/android/MapboxGLAndroidSDK/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AttributionAlertDialogStyle" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:background">@color/mapbox_blue</item>
+    </style>
+</resources>
